@@ -1,0 +1,21 @@
+my experience building my first project from scratch:
+
+Building my first project was intimidating and fun at the same time. This was where i really got to implement everything i learned 
+and see it come together in one place. I had to figure out how to put all the code and tecknology together from looking at demos and 
+previos labs and getting ideas on how to go about it, what files to create and using boiler plate code to get started. Its fun to google things
+and figure out how to make everything work i loved using css to style the page and figuring out how to implement all the REST methods.
+the tecknologys i used where javascript,html,css, and axios,I used those tecknologys because i needed to practice what i learnded during my 
+first 7 weeks at devmountain.
+
+
+
+
+Realizing i had a bug in my code:
+
+After finishing my first project and recording it i realized there was a bug in the delete function. i was using a function that had a for loop
+and it was using the splice method to delete an item  off the list but the problem was that the splice method was modifying the original
+array and the loop length changed everytime it deleted something from the array. so i commented out the for loop and replaced it using a filter 
+method and that fixed the bug.
+
+
+
